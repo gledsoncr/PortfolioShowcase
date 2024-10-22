@@ -57,3 +57,26 @@ Cem maiores empresas dos Estados Unidos listadas no mercado de ações.
 ![Telas de Configuração](/screenshots/pine_script_config.png?raw=true "Telas de Configuração")
 - É possível customizar alguns testes e comparar com diversas configurações diferentes.
 
+## Visualizando Conexões com Gráfico Network
+![Gráfico Network](/screenshots/WordCounter.png?raw=true "Gráfico Network")
+- Gerado através de um algorítmo em Python para apresentar as conexões entre palavras repetidas em um conjunto de dados.
+- Utilizado para identificar padrões, agrupamentos e contextos principais em um conjunto de palavras-chave para SEO.
+- Este algorítmo possui código aberto e pode ser acessado através do link: [https://github.com/gledsoncr/WordCounter](https://github.com/gledsoncr/WordCounter "WordCounter - Visualizando Conexões com Gráfico Network")
+
+## Scatter Plot para Identificação de Melhores Oportunidades de Vendas
+![Scatter Plot](/screenshots/HtmlToDataFrame.png?raw=true "Scatter Plot")
+- Gerado através de um algorítmo em Python que é capaz de ler um código HTML copiado de um website de produtos ou loja virtual, localizar marcações específicas para identificar os produtos dentro do código, criar um DataFrame (tabela de dados) com as informações relevantes de cada produto e ao final gerar um gráfico para analisar os dados de forma visual e intuitiva.
+- Cada ponto no gráfico representa um produto para venda.
+- O eixo vertical (Commission) representa o valor de comissão recebida por cada venda de produto, quanto maior, mais vantajoso para o vendedor.
+- O eixo horizontal (Max Price) representa o preço máximo de cada produto, o que pode indicar um aumento na dificuldade de vendas para produtos mais caros.
+- A coloração (Temperature) dos pontos indica o quão bem cada produto vem sendo vendido, sendo os tons claros Piores e os tons avermelhados Melhores.
+- Os simbolos indicados na parte superior direita do gráfico (comment rating) apresentam uma indicação visual para o ranking de avaliação de cada produto, indo de 1 (pior) até 5 (melhor).
+- O tamanho de cada ponto indica a quantidade de avaliações, tamanhos maiores indicam mais avaliações.
+- As linhas são a indicação visual da Regressão Linear para cada simbolo.
+- Este algorítmo possui código aberto e pode ser acessado através do link: [https://github.com/gledsoncr/HtmlToDataFrame](https://github.com/gledsoncr/HtmlToDataFrame "HtmlToDataFrame - Scatter Plot para Identificação de Melhores Oportunidades de Vendas")
+
+## Planilha para Simulação de Dados para Folha de Apontamento de Horas
+![Planilha para Simulação de Dados para Folha de Apontamento de Horas](/screenshots/EmployeeRecordSheetSimulator.png?raw=true "Planilha para Simulação de Dados para Folha de Apontamento de Horas")
+- Planilha criada em Excel para simular dados em uma folha de apontamento de horas.
+- Permite customização para que o algorítmo procedural gere os dados da maneira desejada.
+- Esta planilha possui código aberto e pode ser acessada através do link: [https://github.com/gledsoncr/EmployeeRecordSheetSimulator](https://github.com/gledsoncr/EmployeeRecordSheetSimulator "EmployeeRecordSheetSimulator - Planilha para Simulação de Dados para Folha de Apontamento de Horas")
