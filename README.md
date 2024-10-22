@@ -46,3 +46,14 @@ Cem maiores empresas dos Estados Unidos listadas no mercado de ações.
 - Pontos Cinza no relatório representam a performance dos ativos do Criptoativos.
 - Desta vez a performance, linha cor Mostarda (Cumulative %), foi superior ao IBOV, mas inferior ao S&P100, por se tratarem de ativos com altíssima volatilidade no período.
 
+## Estratégias em PineScripts: Análise de Dados e Backtests para ativos Financeiros
+### Backtest para Estratégias de Investimentos baseado em Sinais Lógicos para Auxilio na Tomada de Decisão
+![Backtest para Estratégias de Investimentos](/screenshots/pine_script.png?raw=true "Backtest para Estratégias de Investimentos")
+- Marcações "Long" indicam sinais favoráveis para compra do ativo.
+- Marcações "Close" indicam sinais favoráveis para venda do ativo comprado.
+- As linhas coloridas são uma indicação visual dos parâmetros utilizados para gerar os sinais.
+
+### Telas de Configuração para Customização do Algorítmo
+![Telas de Configuração](/screenshots/pine_script_config.png?raw=true "Telas de Configuração")
+- É possível customizar alguns testes e comparar com diversas configurações diferentes.
+
