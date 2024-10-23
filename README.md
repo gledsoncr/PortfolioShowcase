@@ -57,6 +57,16 @@ Cem maiores empresas dos Estados Unidos listadas no mercado de ações.
 ![Telas de Configuração](/screenshots/pine_script_config.png?raw=true "Telas de Configuração")
 - É possível customizar alguns testes e comparar com diversas configurações diferentes.
 
+## Projeção de Cenários Financeiros com Simulação de Monte Carlo para Gestão de Riscos e Planejamento Estratégico
+![Projeção de Cenários Financeiros com Simulação de Monte Carlo para Gestão de Riscos e Planejamento Estratégico](/screenshots/monte_carlo.png?raw=true "Projeção de Cenários Financeiros com Simulação de Monte Carlo para Gestão de Riscos e Planejamento Estratégico")
+- Simulação gerada através de algorítmo em Python para apresentar diversas possibilidades de projeções de cenários de um ativo.
+- A projeção leva em consideração as variações do ativo em um determinado período para gerar a simulação.
+- Este gráfico está apresentando um total de 1000 simulação, condensadas visualmente para facilitar o entendimento.
+- A linha Azul (close.real) representa o preço real do ativo e demonstra como este se comportou ao longo do tempo.
+- A linha Verde (max) representa os valores máximos das simulações.
+- A linha Vermelha (min) representa os valores mínimos das simulações.
+- Utilizado para identificar padrões, agrupamentos e contextos principais em um conjunto de palavras-chave para SEO.
+
 ## Visualizando Conexões com Gráfico Network
 ![Gráfico Network](/screenshots/WordCounter.png?raw=true "Gráfico Network")
 - Gerado através de um algorítmo em Python para apresentar as conexões entre palavras repetidas em um conjunto de dados.
